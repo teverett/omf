@@ -15,7 +15,7 @@
 		<jmock.version>2.12.0</jmock.version>
 		<mockito.version>1.10.19</mockito.version>
 		<slf4j.version>2.0.6</slf4j.version>
-		<hamcrest.version>2.2</hamcrest.version>
+		<hamcrest.version>3.0</hamcrest.version>
 		<cglib.version>3.3.0</cglib.version>
 		<osgi.version>6.0.0</osgi.version>
 		<guiceberry.version>3.3.1</guiceberry.version>
