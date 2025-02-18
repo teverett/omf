@@ -12,7 +12,7 @@
 	<properties>
 		<guice.version>5.1.0</guice.version>
 		<junit.version>4.13.2</junit.version>
-		<jmock.version>2.12.0</jmock.version>
+		<jmock.version>2.13.1</jmock.version>
 		<mockito.version>1.10.19</mockito.version>
 		<slf4j.version>2.0.6</slf4j.version>
 		<hamcrest.version>2.2</hamcrest.version>
